@@ -1,0 +1,10 @@
+#Django
+*.log
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3
+
+#React
+frontend/node_modules/
+frontend/build/
