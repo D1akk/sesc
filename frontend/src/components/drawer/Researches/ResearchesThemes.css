@@ -1,0 +1,15 @@
+.body-content-right {
+  margin-left: 150px;
+  display: flex;
+  width: auto;
+}
+
+.body-content-researches {
+  display: block;
+  margin-right: 250px;
+  min-width: 40vw;
+}
+.research-area-select {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
